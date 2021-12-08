@@ -1,0 +1,49 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(halfdome.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #CA6573;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+
+}
+
+.buffer {
+  height: 10rem;
+}
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-success {
+  background-color: #D4AD6A;
+  border-color: #D4AD6A;
+}
+
+.btn-success:hover {
+  background-color: #AA8039 ;
+  border-color: #AA8039;
+  border-width: 4px;
+}
+hr {
+    margin: 20px auto;
+    color: #D4AD6A;
+    border: 3px solid #D4AD6A;
+    max-width: 65px;
+    opacity: 1;  
+}

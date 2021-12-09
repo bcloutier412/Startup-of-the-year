@@ -4,3 +4,4 @@ creative-tim.com<br>
 https://paletton.com/<br>
 https://css-tricks.com/<br>
 w3schools.com<br>
+animate.style<br>
